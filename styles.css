@@ -1,0 +1,33 @@
+/* add your CSS here */
+body{
+    width: 400px;
+    background-color: rgba(100, 230, 30, 0.2);
+}
+li{
+    list-style-type: none;
+}
+
+span {
+    font-weight: bold;
+}
+
+p {
+    line-height: 125%;
+}
+
+.fish-border-line {
+    border-style: groove;
+    margin:16px;
+}
+
+.border-line {
+    border-style: groove;
+    margin:16px;
+    padding:16px;
+    background-color: rgba(200, 200, 200, 0.5);
+}
+
+.title-border-line {
+    border-style: none;
+    margin:16px;
+}
